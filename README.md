@@ -1,5 +1,5 @@
 Tic Tac Toe Game Project
-1. Project Description
+1. Project Description:
 This project is a Tic Tac Toe Game built using HTML, CSS, and JavaScript. It allows two players to play alternately on a 3x3 grid. It includes features such as win detection, draw detection, and a restart option.
 
 2. Features
